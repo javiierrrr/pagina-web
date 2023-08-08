@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background: linear-gradient( -15deg, #9500ff90, rgba(0, 153, 255, 0.900), #00ddff90);
+    background-color: rgba(0, 0, 0, 0.723);
+}
+#titulo2{
+    display: none;
+}
+#datos12{
+    display: none;
+}
+#datos22{
+    display: none;
+}
+#datos32{
+    display: none;
+}
+#datos42{
+    display: none;
+}
+#datos52{
+    display: none;
+}
+#datos62{
+    display: none;
+}
+#datos21{
+    display: none;
+}
+#datos31{
+    display: none;
+}
+#datos41{
+    display: none;
+}
+#datos51{
+    display: none;
+}
+#datos61{
+    display: none;
+}
+#botones2{
+    display: none;
+}
+img {
+    height: 375px;
+    border-radius: 20px;
+    cursor: grab;
+}
+h3 {
+    text-decoration: dotted;
+    cursor: crosshair;
+}
+h1 {
+    cursor: crosshair;
+}
+h2 {
+    cursor: crosshair;
+}
+button {
+    background-color: rgb(137, 178, 192);
+    cursor: help;
+}
+hr {
+    cursor: vertical-text;
+}
